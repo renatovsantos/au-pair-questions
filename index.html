@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Au Pair Interview Practice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header class="app__header">
+      <p class="app__eyebrow">Perguntas e Respostas Essenciais</p>
+      <h1 class="app__title">Au Pair Interview Practice</h1>
+    </header>
+
+    <div class="progress" aria-live="polite">
+      <span id="progress-text">Pergunta 1 de 29</span>
+      <div class="progress__bar"><div class="progress__fill" id="progress-fill"></div></div>
+    </div>
+
+    <section class="stage">
+      <div class="card" id="card" role="button" tabindex="0" aria-label="Clique para ver a resposta">
+        <div class="card__face card__face--front">
+          <span class="card__tag">Question <span id="q-number"></span></span>
+          <p class="card__question" id="q-text"></p>
+          <span class="card__hint">Toque no card para ver a resposta</span>
+        </div>
+        <div class="card__face card__face--back" aria-hidden="true">
+          <span class="card__tag card__tag--answer">Answer</span>
+          <p class="card__mini-question" id="q-text-back"></p>
+          <div class="card__answer" id="a-text"></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="controls">
+      <button class="btn btn--primary" id="next-btn" type="button" disabled>Próxima pergunta →</button>
+      <button class="btn btn--ghost" id="restart-btn" type="button">Embaralhar e recomeçar</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
