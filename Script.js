@@ -1,4 +1,4 @@
-// Perguntas e respostas extraídas de Perguntas_e_Respostas_EssenciaisLuana.pptx
+// Perguntas e respostas extraídas do arquivo .pptx
 const QUESTIONS = [
   {
     "n": 1,
@@ -12,7 +12,7 @@ const QUESTIONS = [
     "n": 2,
     "q": "Tell me about your host Family.",
     "answers": [
-      "They have two children, the boy is 2 years old and the babygirl will be almost 1 year old when I arrive. My Host Mother is called Markie and my Host Father is called Peter."
+      "They have two children, the boy is 2 years old and the babygirl will be almost 1 year old when I arrive. My Host Mother is called [...] and my Host Father is called [...]."
     ],
     "tip": null
   },
@@ -132,7 +132,7 @@ const QUESTIONS = [
     "n": 17,
     "q": "Who is paying for your program?",
     "answers": [
-      "The Host Family is responsible for paying the biggest part of the program to the agency, but the Au Pair also pays a smaller value and some fees as well, so I am paying for my part of the program to the agency here in Brazil and my mother is also helping me with other spends I am having with this trip."
+      "The Host Family is responsible for paying the biggest part of the program to the agency, but the Au Pair also pays a smaller value and some fees as well, so I am paying for my part of the program to the agency here in Brazil and [...] is also helping me with other spends I am having with this trip."
     ],
     "tip": null
   },
