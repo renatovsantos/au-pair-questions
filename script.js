@@ -4,7 +4,7 @@ const QUESTIONS = [
     "n": 1,
     "q": "Where are you going to?",
     "answers": [
-      "I will be an Au Pair, I am going to a Host family who lives in Las Vegas."
+      "I will be an Au Pair, I am going to a Host family who lives in [...]."
     ],
     "tip": null
   },
