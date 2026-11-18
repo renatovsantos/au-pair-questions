@@ -195,7 +195,7 @@ const QUESTIONS = [
     "n": 25,
     "q": "What are/were your experiences with kids?",
     "answers": [
-      "I worked as a babysitter for my neighbour and also took care of children at my church."
+      "I worked as a babysitter for my neighbor and also took care of children at my church."
     ],
     "tip": "Nesta resposta, não é necessário posicionamento estratégico de informações, para responder basta ser honesta. Pode responder de maneira genérica, mas é essencial demonstrar muita confiança para o cônsul ver que você está preparada para cuidar de crianças em outro país."
   },
