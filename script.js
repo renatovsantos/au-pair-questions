@@ -84,7 +84,8 @@ const QUESTIONS = [
     "n": 11,
     "q": "What are the reasons would you get back to Brazil after your year as an Au Pair?",
     "answers": [
-      "I am extremely attached to my family and I can't even think about building my life away from them and especially because of my career here in Brazil, I would like to pursue a good Career for myself, to have a better quality of life and that’s actually the main reason I want to live abroad to become fluent in English and building a good career for me will only be possible in my home country."
+      "When I return to Brazil, I will pursue a master’s degree in clinical research. 
+In fact, I have an article that was published in 2022."
     ],
     "tip": null
   },
@@ -217,7 +218,7 @@ const QUESTIONS = [
     "n": 28,
     "q": "How many times did you talk to your Host Family?",
     "answers": [
-      "I talked to them a few times before the Match so I could get to know them, their kids and their needs and expectations. Nowadays I talk to them almost every day, we try to keep in touch quite often, so I can get already used to them and the routine. I see we are already building bonds, which is amazing."
+      "We spoke a few times via video call before matching. Nowadays, we stay in touch through photos and messages, since our schedules aren't very compatible."
     ],
     "tip": null
   },
