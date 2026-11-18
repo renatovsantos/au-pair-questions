@@ -194,7 +194,9 @@ const QUESTIONS = [
   {
     "n": 25,
     "q": "What are/were your experiences with kids?",
-    "answers": [],
+    "answers": [
+      "It will be my first time traveling abroad."
+    ],
     "tip": "Nesta resposta, não é necessário posicionamento estratégico de informações, para responder basta ser honesta. Pode responder de maneira genérica, mas é essencial demonstrar muita confiança para o cônsul ver que você está preparada para cuidar de crianças em outro país."
   },
   {
