@@ -84,8 +84,7 @@ const QUESTIONS = [
     "n": 11,
     "q": "What are the reasons would you get back to Brazil after your year as an Au Pair?",
     "answers": [
-      "When I return to Brazil, I will pursue a master’s degree in clinical research. 
-In fact, I have an article that was published in 2022."
+      "When I return to Brazil, I will pursue a master’s degree in clinical research. In fact, I have an article that was published in 2022."
     ],
     "tip": null
   },
